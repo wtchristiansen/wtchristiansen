@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtchristiansen
 - 👀 I’m interested in social science, text analysis, applied bayesian modeling, web scraping, and data visualization
-- 🌱 I’m currently learning every day
+- 🌱 I’m currently learning every day, all files are a work in progress and greatly indebted to online resources
 - 💞️ I’m looking to collaborate on academic research projects
 - 📫 w.t.christiansen@msmary.edu
 
